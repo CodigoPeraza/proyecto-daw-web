@@ -1,0 +1,15 @@
+/*Reseteamos los margenes generales*/
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+/* HEADER */
+header{
+    height: 100px;
+    background: rgb(70, 70, 113);
+    padding: 0 50px;
+    color: #fff;
+    display: flex;
+}
